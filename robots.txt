@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://2025bit014-oss.github.io/Professional-Portfolio-HTML5/sitemap.xml
